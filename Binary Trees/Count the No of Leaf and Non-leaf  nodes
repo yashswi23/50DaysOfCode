@@ -1,0 +1,22 @@
+class Result {
+  static int countLeafs(Node root) {
+      if(root == null){
+          return 0;
+      }
+      if(root.left== null && root.right == null){
+          return 1;
+      }
+      int left = countLeafs(root.left);
+      int right = countLeafs(root.right);
+      return left+right;
+  }
+  static int countNonLeafs(Node root) {
+      if(root == null){
+          return 0;
+      }
+      if(root.left!=null || root.right!=null){
+          return 1 + countNonLeafs(root.left) +countNonLeafs(root.right);
+      }
+      return 0;
+  }
+}
