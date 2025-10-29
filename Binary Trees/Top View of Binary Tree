@@ -1,0 +1,35 @@
+class Result {
+  static class Pair{
+      int hd;
+      Node nd;
+      public Pair(int hd, Node node){
+          this.hd = hd;
+          this.nd = node;
+      }
+  }
+  static void printTopView(Node root) {
+    // Write your code here
+      if(root == null) return;
+      Map<Integer,Integer> mp = new TreeMap<>();
+      Queue<Pair> q = new LinkedList<>();
+      q.offer(new Pair(0,root));
+      while(!q.isEmpty()){
+          Pair p = q.poll();
+          int distance = p.hd;
+          Node nodes = p.nd;
+          if(!mp.containsKey(distance)){
+              mp.put(distance, nodes.data);
+          }
+          if(nodes.left!=null){
+              q.offer(new Pair(distance-1,nodes.left));
+          }
+          if(nodes.right!=null){
+              q.offer(new Pair(distance+1,nodes.right));
+          }
+      }
+      
+      for(int val: mp.values()){
+          System.out.print(val+" ");
+      }
+    
+  }
