@@ -1,0 +1,40 @@
+
+
+🧠 My Thought Process:
+
+I used a HashSet for fast lookups (O(1) time) to store all the values to be deleted.
+
+Added a dummy node before the head — it makes life so much easier when handling edge cases like deleting the first node.
+
+Traversed the list with two pointers:
+
+prev → keeps track of the last valid node.
+
+cur → scans each node.
+
+If cur.val is in the set, skip it. Otherwise, link it back to the valid chain.
+
+By the end, I had a clean, bug-free linked list — no missing nodes, no broken chains. 🔥
+
+
+class Solution {
+    public ListNode modifiedList(int[] nums, ListNode head) {
+        HashSet<Integer> set = new HashSet<>();
+        for (int n : nums) set.add(n);
+
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode prev = dummy, cur = head;
+
+        while (cur != null) {
+            if (set.contains(cur.val)) prev.next = cur.next;
+            else prev = cur;
+            cur = cur.next;
+        }
+
+        return dummy.next;
+    }
+}
+
+
+💡
