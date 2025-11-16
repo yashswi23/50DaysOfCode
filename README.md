@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1636-number-of-substrings-with-only-1s](https://github.com/yashswi23/50DaysOfCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yashswi23/50DaysOfCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Number Theory
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1636-number-of-substrings-with-only-1s](https://github.com/yashswi23/50DaysOfCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/yashswi23/50DaysOfCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
 |  |
