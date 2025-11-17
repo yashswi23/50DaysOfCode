@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/yashswi23/50DaysOfCode/tree/master/0605-can-place-flowers) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/yashswi23/50DaysOfCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2625-increment-submatrices-by-one](https://github.com/yashswi23/50DaysOfCode/tree/master/2625-increment-submatrices-by-one) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/yashswi23/50DaysOfCode/tree/master/2625-increment-submatrices-by-one) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
