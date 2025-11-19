@@ -6,15 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/yashswi23/50DaysOfCode/tree/master/0207-course-schedule) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
+| [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashswi23/50DaysOfCode/tree/master/0207-course-schedule) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
+| [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashswi23/50DaysOfCode/tree/master/0207-course-schedule) |
+| [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Union Find
 |  |
 | ------- |
