@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yashswi23/50DaysOfCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/yashswi23/50DaysOfCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0001-two-sum) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Heap (Priority Queue)
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/yashswi23/50DaysOfCode/tree/master/2625-increment-submatrices-by-one) |
 ## Backtracking
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
