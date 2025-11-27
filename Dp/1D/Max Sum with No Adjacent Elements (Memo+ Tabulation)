@@ -1,0 +1,49 @@
+//Memoization
+class Solution {
+    int[]dp;
+    int n;
+    
+    int solve(int i, int[] arr){
+        if(i>= n) return 0;
+        if(dp[i]!=-1) return dp[i];
+        int pick = arr[i]+solve(i+2,arr);
+        int notpick = solve(i+1,arr);
+        
+        return dp[i]=Math.max(pick,notpick);
+    }
+    int findMaxSum(int arr[]) {
+        // code here
+        n = arr.length;
+        dp = new int[n+1];
+        Arrays.fill(dp,-1);
+        
+        
+        return solve(0,arr);
+        
+    }
+}
+
+
+//tabulation
+class Solution {
+    int[]dp;
+    int n;
+    int findMaxSum(int arr[]) {
+        // code here
+        n = arr.length;
+        dp = new int[n+1];
+        dp[0]=0;
+        dp[1] = arr[0];
+        
+        for(int i=2;i<=n;i++){
+            int pick = arr[i-1]+dp[i-2];
+            int notpick = dp[i-1];
+            
+            dp[i] = Math.max(pick,notpick);
+        }
+        
+        
+        return dp[n];
+        
+    }
+}
