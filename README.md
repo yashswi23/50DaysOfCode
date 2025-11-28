@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/yashswi23/50DaysOfCode/tree/master/0207-course-schedule) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/yashswi23/50DaysOfCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/1137-n-th-tribonacci-number) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/yashswi23/50DaysOfCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
