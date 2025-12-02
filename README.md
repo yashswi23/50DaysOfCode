@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yashswi23/50DaysOfCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yashswi23/50DaysOfCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yashswi23/50DaysOfCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yashswi23/50DaysOfCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yashswi23/50DaysOfCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yashswi23/50DaysOfCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/yashswi23/50DaysOfCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3623-count-number-of-trapezoids-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yashswi23/50DaysOfCode/tree/master/2141-maximum-running-time-of-n-computers) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
