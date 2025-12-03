@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/yashswi23/50DaysOfCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/1137-n-th-tribonacci-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [1143-longest-common-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/1143-longest-common-subsequence) |
@@ -149,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/yashswi23/50DaysOfCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashswi23/50DaysOfCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
