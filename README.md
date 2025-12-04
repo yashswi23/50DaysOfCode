@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashswi23/50DaysOfCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/1143-longest-common-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashswi23/50DaysOfCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yashswi23/50DaysOfCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -199,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashswi23/50DaysOfCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/yashswi23/50DaysOfCode/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
