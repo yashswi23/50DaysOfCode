@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/yashswi23/50DaysOfCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/yashswi23/50DaysOfCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0090-subsets-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashswi23/50DaysOfCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yashswi23/50DaysOfCode/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/yashswi23/50DaysOfCode/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,6 +215,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashswi23/50DaysOfCode/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashswi23/50DaysOfCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/yashswi23/50DaysOfCode/tree/master/2211-count-collisions-on-a-road) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashswi23/50DaysOfCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
