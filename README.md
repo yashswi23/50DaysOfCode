@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yashswi23/50DaysOfCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yashswi23/50DaysOfCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yashswi23/50DaysOfCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/yashswi23/50DaysOfCode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/yashswi23/50DaysOfCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/yashswi23/50DaysOfCode/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/yashswi23/50DaysOfCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/yashswi23/50DaysOfCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [3531-count-covered-buildings](https://github.com/yashswi23/50DaysOfCode/tree/master/3531-count-covered-buildings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/yashswi23/50DaysOfCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3531-count-covered-buildings](https://github.com/yashswi23/50DaysOfCode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/yashswi23/50DaysOfCode/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/3625-count-number-of-trapezoids-ii) |
