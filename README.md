@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yashswi23/50DaysOfCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/yashswi23/50DaysOfCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yashswi23/50DaysOfCode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/yashswi23/50DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/yashswi23/50DaysOfCode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/yashswi23/50DaysOfCode/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0791-custom-sort-string](https://github.com/yashswi23/50DaysOfCode/tree/master/0791-custom-sort-string) |
