@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/yashswi23/50DaysOfCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0090-subsets-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0503-next-greater-element-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashswi23/50DaysOfCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/yashswi23/50DaysOfCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0509-fibonacci-number) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yashswi23/50DaysOfCode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Geometry
 |  |
