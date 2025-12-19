@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashswi23/50DaysOfCode/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/yashswi23/50DaysOfCode/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashswi23/50DaysOfCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/yashswi23/50DaysOfCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0503-next-greater-element-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yashswi23/50DaysOfCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/yashswi23/50DaysOfCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0509-fibonacci-number) |
