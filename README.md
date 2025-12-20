@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/yashswi23/50DaysOfCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/yashswi23/50DaysOfCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0930-binary-subarrays-with-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/yashswi23/50DaysOfCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/yashswi23/50DaysOfCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/yashswi23/50DaysOfCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/yashswi23/50DaysOfCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0791-custom-sort-string](https://github.com/yashswi23/50DaysOfCode/tree/master/0791-custom-sort-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/yashswi23/50DaysOfCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashswi23/50DaysOfCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/yashswi23/50DaysOfCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/yashswi23/50DaysOfCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/yashswi23/50DaysOfCode/tree/master/2625-increment-submatrices-by-one) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashswi23/50DaysOfCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/yashswi23/50DaysOfCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
