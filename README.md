@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/yashswi23/50DaysOfCode/tree/master/0791-custom-sort-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashswi23/50DaysOfCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/1143-longest-common-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashswi23/50DaysOfCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashswi23/50DaysOfCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yashswi23/50DaysOfCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -298,5 +299,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashswi23/50DaysOfCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/yashswi23/50DaysOfCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
