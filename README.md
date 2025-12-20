@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashswi23/50DaysOfCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2092-find-all-people-with-secret](https://github.com/yashswi23/50DaysOfCode/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/yashswi23/50DaysOfCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/yashswi23/50DaysOfCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashswi23/50DaysOfCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2092-find-all-people-with-secret](https://github.com/yashswi23/50DaysOfCode/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashswi23/50DaysOfCode/tree/master/0207-course-schedule) |
 | [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashswi23/50DaysOfCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2092-find-all-people-with-secret](https://github.com/yashswi23/50DaysOfCode/tree/master/2092-find-all-people-with-secret) |
 ## Topological Sort
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/yashswi23/50DaysOfCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0791-custom-sort-string](https://github.com/yashswi23/50DaysOfCode/tree/master/0791-custom-sort-string) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/yashswi23/50DaysOfCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2092-find-all-people-with-secret](https://github.com/yashswi23/50DaysOfCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yashswi23/50DaysOfCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/yashswi23/50DaysOfCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashswi23/50DaysOfCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2092-find-all-people-with-secret](https://github.com/yashswi23/50DaysOfCode/tree/master/2092-find-all-people-with-secret) |
 ## Simulation
 |  |
 | ------- |
