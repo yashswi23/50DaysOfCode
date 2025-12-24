@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/yashswi23/50DaysOfCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yashswi23/50DaysOfCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/yashswi23/50DaysOfCode/tree/master/1590-make-sum-divisible-by-p) |
+| [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/yashswi23/50DaysOfCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yashswi23/50DaysOfCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/yashswi23/50DaysOfCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0791-custom-sort-string](https://github.com/yashswi23/50DaysOfCode/tree/master/0791-custom-sort-string) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/yashswi23/50DaysOfCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/yashswi23/50DaysOfCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yashswi23/50DaysOfCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/yashswi23/50DaysOfCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/yashswi23/50DaysOfCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/yashswi23/50DaysOfCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/yashswi23/50DaysOfCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/yashswi23/50DaysOfCode/tree/master/0621-task-scheduler) |
+| [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/yashswi23/50DaysOfCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Matrix
 |  |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
+| [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yashswi23/50DaysOfCode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Geometry
 |  |
