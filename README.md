@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashswi23/50DaysOfCode/tree/master/0207-course-schedule) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0110-balanced-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/yashswi23/50DaysOfCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/yashswi23/50DaysOfCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Two Pointers
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0234-palindrome-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
