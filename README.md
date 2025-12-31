@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/yashswi23/50DaysOfCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashswi23/50DaysOfCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/yashswi23/50DaysOfCode/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/yashswi23/50DaysOfCode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/yashswi23/50DaysOfCode/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/yashswi23/50DaysOfCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashswi23/50DaysOfCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/yashswi23/50DaysOfCode/tree/master/2092-find-all-people-with-secret) |
 ## Graph
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashswi23/50DaysOfCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yashswi23/50DaysOfCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/yashswi23/50DaysOfCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/yashswi23/50DaysOfCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/yashswi23/50DaysOfCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yashswi23/50DaysOfCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/yashswi23/50DaysOfCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2625-increment-submatrices-by-one](https://github.com/yashswi23/50DaysOfCode/tree/master/2625-increment-submatrices-by-one) |
 ## Prefix Sum
 |  |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/yashswi23/50DaysOfCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashswi23/50DaysOfCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/yashswi23/50DaysOfCode/tree/master/2092-find-all-people-with-secret) |
 ## Simulation
@@ -305,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/yashswi23/50DaysOfCode/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/yashswi23/50DaysOfCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yashswi23/50DaysOfCode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Geometry
