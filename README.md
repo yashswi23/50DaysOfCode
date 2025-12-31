@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashswi23/50DaysOfCode/tree/master/0207-course-schedule) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashswi23/50DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/yashswi23/50DaysOfCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0113-path-sum-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/yashswi23/50DaysOfCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/yashswi23/50DaysOfCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Two Pointers
@@ -354,4 +357,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
