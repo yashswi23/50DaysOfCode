@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yashswi23/50DaysOfCode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0503-next-greater-element-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/yashswi23/50DaysOfCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/yashswi23/50DaysOfCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yashswi23/50DaysOfCode/tree/master/0621-task-scheduler) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/yashswi23/50DaysOfCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/yashswi23/50DaysOfCode/tree/master/3583-count-special-triplets) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yashswi23/50DaysOfCode/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashswi23/50DaysOfCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/yashswi23/50DaysOfCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yashswi23/50DaysOfCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/yashswi23/50DaysOfCode/tree/master/0756-pyramid-transition-matrix) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yashswi23/50DaysOfCode/tree/master/0621-task-scheduler) |
 | [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/yashswi23/50DaysOfCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -385,4 +390,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashswi23/50DaysOfCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
