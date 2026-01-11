@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yashswi23/50DaysOfCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/yashswi23/50DaysOfCode/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/yashswi23/50DaysOfCode/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/yashswi23/50DaysOfCode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/yashswi23/50DaysOfCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/yashswi23/50DaysOfCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yashswi23/50DaysOfCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
+| [0224-basic-calculator](https://github.com/yashswi23/50DaysOfCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/yashswi23/50DaysOfCode/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/yashswi23/50DaysOfCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0680-valid-palindrome-ii) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/yashswi23/50DaysOfCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashswi23/50DaysOfCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashswi23/50DaysOfCode/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/yashswi23/50DaysOfCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashswi23/50DaysOfCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
