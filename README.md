@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yashswi23/50DaysOfCode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yashswi23/50DaysOfCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/yashswi23/50DaysOfCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yashswi23/50DaysOfCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashswi23/50DaysOfCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yashswi23/50DaysOfCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0090-subsets-ii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashswi23/50DaysOfCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yashswi23/50DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/yashswi23/50DaysOfCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/yashswi23/50DaysOfCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yashswi23/50DaysOfCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yashswi23/50DaysOfCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yashswi23/50DaysOfCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/yashswi23/50DaysOfCode/tree/master/0542-01-matrix) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashswi23/50DaysOfCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/yashswi23/50DaysOfCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yashswi23/50DaysOfCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
