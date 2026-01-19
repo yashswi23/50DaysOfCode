@@ -504,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/yashswi23/50DaysOfCode/tree/master/0450-delete-node-in-a-bst) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/yashswi23/50DaysOfCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
