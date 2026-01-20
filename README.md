@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashswi23/50DaysOfCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/yashswi23/50DaysOfCode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/yashswi23/50DaysOfCode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/yashswi23/50DaysOfCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yashswi23/50DaysOfCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yashswi23/50DaysOfCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/yashswi23/50DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/yashswi23/50DaysOfCode/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/yashswi23/50DaysOfCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/yashswi23/50DaysOfCode/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/yashswi23/50DaysOfCode/tree/master/0647-palindromic-substrings) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/yashswi23/50DaysOfCode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashswi23/50DaysOfCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/yashswi23/50DaysOfCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/yashswi23/50DaysOfCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yashswi23/50DaysOfCode/tree/master/0621-task-scheduler) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashswi23/50DaysOfCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/yashswi23/50DaysOfCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
@@ -512,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/yashswi23/50DaysOfCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/yashswi23/50DaysOfCode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yashswi23/50DaysOfCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/yashswi23/50DaysOfCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
