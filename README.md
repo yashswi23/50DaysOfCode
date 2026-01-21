@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashswi23/50DaysOfCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/yashswi23/50DaysOfCode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/yashswi23/50DaysOfCode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/yashswi23/50DaysOfCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/yashswi23/50DaysOfCode/tree/master/0621-task-scheduler) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/yashswi23/50DaysOfCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/yashswi23/50DaysOfCode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0234-palindrome-linked-list) |
 ## Binary Tree
 |  |
@@ -527,5 +529,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/yashswi23/50DaysOfCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/yashswi23/50DaysOfCode/tree/master/0155-min-stack) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashswi23/50DaysOfCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
