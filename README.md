@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/yashswi23/50DaysOfCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yashswi23/50DaysOfCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yashswi23/50DaysOfCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/yashswi23/50DaysOfCode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/yashswi23/50DaysOfCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/yashswi23/50DaysOfCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/yashswi23/50DaysOfCode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/yashswi23/50DaysOfCode/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/yashswi23/50DaysOfCode/tree/master/0767-reorganize-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/yashswi23/50DaysOfCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
 | [2211-count-collisions-on-a-road](https://github.com/yashswi23/50DaysOfCode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/yashswi23/50DaysOfCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/yashswi23/50DaysOfCode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0234-palindrome-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -539,4 +544,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yashswi23/50DaysOfCode/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
