@@ -1,38 +1,36 @@
 class LRUCache {
     int cap;
-    Map<Integer,Integer> mp ;
-    Deque<Integer> dq;
+    Deque<Integer> dq ;
+    Map<Integer,Integer> mp;
 
     public LRUCache(int capacity) {
         this.cap = capacity;
-        mp = new HashMap<>();
         dq = new LinkedList<>();
+        mp = new HashMap<>();
+        
     }
     
     public int get(int key) {
         if(!mp.containsKey(key)){
-            return -1;
+           return -1;
         }
-
-        dq.remove(key);
+         dq.remove(key);
         dq.addFirst(key);
         return mp.get(key);
         
     }
     
     public void put(int key, int value) {
-
         if(mp.containsKey(key)){
             dq.remove(key);
         }
         else if(mp.size() == cap){
-            int last = dq.removeLast();
+           int last =  dq.pollLast();
             mp.remove(last);
         }
 
-        dq.addFirst(key);
         mp.put(key,value);
-
+        dq.addFirst(key);
         
     }
 }
