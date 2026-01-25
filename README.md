@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashswi23/50DaysOfCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/yashswi23/50DaysOfCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yashswi23/50DaysOfCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/yashswi23/50DaysOfCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yashswi23/50DaysOfCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/yashswi23/50DaysOfCode/tree/master/0791-custom-sort-string) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/yashswi23/50DaysOfCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/yashswi23/50DaysOfCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yashswi23/50DaysOfCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/yashswi23/50DaysOfCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yashswi23/50DaysOfCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashswi23/50DaysOfCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashswi23/50DaysOfCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yashswi23/50DaysOfCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/yashswi23/50DaysOfCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Linked List
 |  |
