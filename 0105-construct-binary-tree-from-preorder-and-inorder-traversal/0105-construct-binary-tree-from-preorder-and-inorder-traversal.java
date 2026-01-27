@@ -14,25 +14,30 @@
  * }
  */
 class Solution {
-    int preIndex =-1;
+    int postIndex;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        preIndex = 0;
         Map<Integer,Integer> mp = new HashMap<>();
-        for(int i=0;i<inorder.length;i++){
-            mp.put(inorder[i],i);
-        }
+        int n = preorder.length;
 
-        return solve(preorder,inorder,0,inorder.length-1,mp);
+    for(int i=0;i<inorder.length;i++){
+        mp.put(inorder[i],i);
+    }
+    postIndex =0;
+
+    return  solve(preorder,inorder,mp,0,inorder.length-1);
+
+        
+        
     }
 
-    public TreeNode solve(int[] preorder,int[] inorder, int instart, int inend, Map<Integer,Integer> mp){
+    public TreeNode solve(int[] preorder, int [] inorder,Map<Integer,Integer> mp, int instart, int inend){
         if(instart> inend) return null;
-
-        TreeNode root = new TreeNode(preorder[preIndex++]);
+        TreeNode root =  new TreeNode(preorder[postIndex++]);
         int idx = mp.get(root.val);
 
-        root.left = solve(preorder, inorder,instart, idx-1,mp);
-        root.right = solve(preorder,inorder, idx+1,inend,mp);
+        root.left = solve(preorder,inorder,mp,instart, idx-1);
+        root.right = solve(preorder,inorder,mp,idx+1,inend);
+
         return root;
     }
 }
