@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/yashswi23/50DaysOfCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yashswi23/50DaysOfCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/yashswi23/50DaysOfCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/yashswi23/50DaysOfCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0503-next-greater-element-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashswi23/50DaysOfCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yashswi23/50DaysOfCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/yashswi23/50DaysOfCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/yashswi23/50DaysOfCode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/yashswi23/50DaysOfCode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/yashswi23/50DaysOfCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yashswi23/50DaysOfCode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yashswi23/50DaysOfCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yashswi23/50DaysOfCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/yashswi23/50DaysOfCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
