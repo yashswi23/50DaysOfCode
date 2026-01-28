@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashswi23/50DaysOfCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashswi23/50DaysOfCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/yashswi23/50DaysOfCode/tree/master/0733-flood-fill) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashswi23/50DaysOfCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0113-path-sum-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashswi23/50DaysOfCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashswi23/50DaysOfCode/tree/master/0450-delete-node-in-a-bst) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashswi23/50DaysOfCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0113-path-sum-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashswi23/50DaysOfCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashswi23/50DaysOfCode/tree/master/0450-delete-node-in-a-bst) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yashswi23/50DaysOfCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/yashswi23/50DaysOfCode/tree/master/0450-delete-node-in-a-bst) |
 ## Database
 |  |
