@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yashswi23/50DaysOfCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yashswi23/50DaysOfCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/yashswi23/50DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/yashswi23/50DaysOfCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yashswi23/50DaysOfCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashswi23/50DaysOfCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashswi23/50DaysOfCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/yashswi23/50DaysOfCode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/yashswi23/50DaysOfCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/yashswi23/50DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashswi23/50DaysOfCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/yashswi23/50DaysOfCode/tree/master/0139-word-break) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yashswi23/50DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/yashswi23/50DaysOfCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yashswi23/50DaysOfCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
