@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/yashswi23/50DaysOfCode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/yashswi23/50DaysOfCode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/yashswi23/50DaysOfCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yashswi23/50DaysOfCode/tree/master/0322-coin-change) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yashswi23/50DaysOfCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yashswi23/50DaysOfCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/yashswi23/50DaysOfCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/yashswi23/50DaysOfCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0680-valid-palindrome-ii) |
