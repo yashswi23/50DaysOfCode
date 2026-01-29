@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashswi23/50DaysOfCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yashswi23/50DaysOfCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/yashswi23/50DaysOfCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yashswi23/50DaysOfCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yashswi23/50DaysOfCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yashswi23/50DaysOfCode/tree/master/0066-plus-one) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yashswi23/50DaysOfCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yashswi23/50DaysOfCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/yashswi23/50DaysOfCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yashswi23/50DaysOfCode/tree/master/0085-maximal-rectangle) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yashswi23/50DaysOfCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
 | [2211-count-collisions-on-a-road](https://github.com/yashswi23/50DaysOfCode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yashswi23/50DaysOfCode/tree/master/2274-keep-multiplying-found-values-by-two) |
