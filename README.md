@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/yashswi23/50DaysOfCode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yashswi23/50DaysOfCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yashswi23/50DaysOfCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/yashswi23/50DaysOfCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yashswi23/50DaysOfCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/yashswi23/50DaysOfCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/yashswi23/50DaysOfCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/yashswi23/50DaysOfCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/yashswi23/50DaysOfCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/yashswi23/50DaysOfCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/yashswi23/50DaysOfCode/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/yashswi23/50DaysOfCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yashswi23/50DaysOfCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/yashswi23/50DaysOfCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
 |  |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/yashswi23/50DaysOfCode/tree/master/0139-word-break) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Design
 |  |
 | ------- |
@@ -602,8 +606,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yashswi23/50DaysOfCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yashswi23/50DaysOfCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
