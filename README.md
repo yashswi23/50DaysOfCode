@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yashswi23/50DaysOfCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/yashswi23/50DaysOfCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/yashswi23/50DaysOfCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashswi23/50DaysOfCode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/yashswi23/50DaysOfCode/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0509-fibonacci-number) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashswi23/50DaysOfCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yashswi23/50DaysOfCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/yashswi23/50DaysOfCode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0300-longest-increasing-subsequence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/yashswi23/50DaysOfCode/tree/master/1970-last-day-where-you-can-still-cross) |
