@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/yashswi23/50DaysOfCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/yashswi23/50DaysOfCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0509-fibonacci-number) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/yashswi23/50DaysOfCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/yashswi23/50DaysOfCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
