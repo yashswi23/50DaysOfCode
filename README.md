@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashswi23/50DaysOfCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/yashswi23/50DaysOfCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1544-make-the-string-great](https://github.com/yashswi23/50DaysOfCode/tree/master/1544-make-the-string-great) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yashswi23/50DaysOfCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/yashswi23/50DaysOfCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashswi23/50DaysOfCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yashswi23/50DaysOfCode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashswi23/50DaysOfCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashswi23/50DaysOfCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/yashswi23/50DaysOfCode/tree/master/1544-make-the-string-great) |
 | [2211-count-collisions-on-a-road](https://github.com/yashswi23/50DaysOfCode/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
