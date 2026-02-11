@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yashswi23/50DaysOfCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/yashswi23/50DaysOfCode/tree/master/0139-word-break) |
+| [0189-rotate-array](https://github.com/yashswi23/50DaysOfCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/yashswi23/50DaysOfCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yashswi23/50DaysOfCode/tree/master/0239-sliding-window-maximum) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yashswi23/50DaysOfCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/yashswi23/50DaysOfCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashswi23/50DaysOfCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/yashswi23/50DaysOfCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/yashswi23/50DaysOfCode/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/yashswi23/50DaysOfCode/tree/master/0840-magic-squares-in-grid) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yashswi23/50DaysOfCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yashswi23/50DaysOfCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yashswi23/50DaysOfCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/yashswi23/50DaysOfCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/yashswi23/50DaysOfCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashswi23/50DaysOfCode/tree/master/0287-find-the-duplicate-number) |
