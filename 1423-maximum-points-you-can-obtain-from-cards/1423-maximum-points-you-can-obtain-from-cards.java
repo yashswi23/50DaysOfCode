@@ -1,23 +1,26 @@
 class Solution {
-    public int maxScore(int[] arr, int k) {
-     int n = arr.length;
-     int tsum =0;
-     int minsum = 0;
-     int sum=0;
-     for(int num: arr){
-        tsum+=num;
-     }
+    public int maxScore(int[] card, int k) {
+        int maxCards =0;
+        int n = card.length;
 
-     for(int i=0;i<n-k;i++){
-        sum+= arr[i];
-     }
-     minsum = sum;
-     for(int i=n-k;i<n;i++){
-        sum += arr[i];
-        sum-= arr[i-(n-k)];
-        minsum = Math.min(minsum,sum);
-     }
+        int minSum =0;
+        int sum=0;
+        int tsum=0;
 
-     return tsum-minsum;
+        for(int c: card){
+            tsum+=c;
+        }
+        for(int i=0;i<n-k;i++){
+            sum+= card[i];
+        }
+        minSum = sum;
+
+        for(int i=n-k;i<n;i++){
+            sum+= card[i];
+            sum-= card[i-(n-k)];
+            minSum = Math.min(minSum,sum);
+        }
+
+        return tsum - minSum;
     }
 }
