@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/yashswi23/50DaysOfCode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/yashswi23/50DaysOfCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/yashswi23/50DaysOfCode/tree/master/1137-n-th-tribonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashswi23/50DaysOfCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1390-four-divisors](https://github.com/yashswi23/50DaysOfCode/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yashswi23/50DaysOfCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/yashswi23/50DaysOfCode/tree/master/1925-count-square-sum-triples) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yashswi23/50DaysOfCode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashswi23/50DaysOfCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/yashswi23/50DaysOfCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Tree
 |  |
