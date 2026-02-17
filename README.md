@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yashswi23/50DaysOfCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashswi23/50DaysOfCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashswi23/50DaysOfCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
