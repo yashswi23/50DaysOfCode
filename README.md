@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashswi23/50DaysOfCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashswi23/50DaysOfCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/yashswi23/50DaysOfCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/yashswi23/50DaysOfCode/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/yashswi23/50DaysOfCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yashswi23/50DaysOfCode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/yashswi23/50DaysOfCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/yashswi23/50DaysOfCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/yashswi23/50DaysOfCode/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/yashswi23/50DaysOfCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/yashswi23/50DaysOfCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashswi23/50DaysOfCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/yashswi23/50DaysOfCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/yashswi23/50DaysOfCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -670,5 +673,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/yashswi23/50DaysOfCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yashswi23/50DaysOfCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
